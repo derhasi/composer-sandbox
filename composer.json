@@ -2,6 +2,6 @@
   "name": "derhasi/composer-sandbox",
   "type": "sandbox",
   "autoload": {
-    "psr-0": "": "src/"
+    "psr-0": {"": "src/"}
   }
 }
